@@ -1,0 +1,1 @@
+# Average of one hundred students
